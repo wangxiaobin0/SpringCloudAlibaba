@@ -1,0 +1,21 @@
+server:
+  port: 9001
+spring:
+  application:
+    name: alibaba-nacos-payment-service
+  #微服务配置
+  cloud:
+    #nacos配置
+    nacos:
+      #服务发现配置
+      discovery:
+        #注册中心地址
+        server-addr: 112.126.59.115:8848
+
+
+#暴露端点
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"

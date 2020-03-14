@@ -1,0 +1,45 @@
+server:
+  port: 80
+
+spring:
+  application:
+    name: alibaba-nacos-order-service
+  cloud:
+    #服务发现
+    nacos:
+      discovery:
+        server-addr: 112.126.59.115:8848
+    #限流
+    sentinel:
+      transport:
+        dashboard: localhost:8080
+        port: 8719
+      #持久化配置
+      datasource:
+        #Map的key,随便起
+        ds1:
+          #nacos持久化
+          nacos:
+            #nacos地址
+            serverAddr: 112.126.59.115:8848
+            #配置的dataId
+            dataId: alibaba-nacos-order-service
+            #配置的groupId. 默认是DEFAULT_GROUP
+            groupId: DEFAULT_GROUP
+            #namespace
+            #namespace: dev
+            ruleType: flow
+            #数据类型
+            dataType: json
+
+
+#开启feign对sentinel的支持
+feign:
+  sentinel:
+    enabled: true
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"

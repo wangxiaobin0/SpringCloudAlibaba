@@ -1,0 +1,17 @@
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.cloud.dao.IAccountDao">
+
+    <resultMap id="account" type="Account">
+        <id property="id" column="id" jdbcType="BIGINT"/>
+        <result property="userId" column="user_id" jdbcType="BIGINT"/>
+        <result property="total" column="total" jdbcType="DOUBLE"/>
+        <result property="used" column="used" jdbcType="DOUBLE"/>
+        <result property="residue" column="status" jdbcType="DOUBLE"/>
+    </resultMap>
+    <update id="updateMoney">
+        update t_account
+        set used = used + #{money}, residue = residue - #{money}
+        where user_id = #{userId}
+    </update>
+</mapper>

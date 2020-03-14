@@ -1,0 +1,23 @@
+server:
+  port: 9005
+spring:
+  application:
+    name: alibaba-sentinel-service
+  cloud:
+    #服务发现配置
+    nacos:
+      discovery:
+        server-addr: 112.126.59.115:8848
+    sentinel:
+      transport:
+        #sentinel服务地址
+        dashboard: localhost:8080
+        #就这么写
+        port: 8719
+
+#sentinel监控需要暴露端点
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"

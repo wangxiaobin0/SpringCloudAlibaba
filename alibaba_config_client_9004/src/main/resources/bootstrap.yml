@@ -1,0 +1,18 @@
+server:
+  port: 9004
+
+spring:
+  application:
+    name: alibaba-nacos-config-client
+  profiles:
+    active:
+      test
+  cloud:
+    nacos:
+      config:
+        #配置中心地址
+        server-addr: 112.126.59.115:8848
+        #配置文件扩展名
+        file-extension: yaml
+        namespace: 49086fd1-e594-48bd-95c1-d7089b06047b
+        group: CONFIG_CLIENT

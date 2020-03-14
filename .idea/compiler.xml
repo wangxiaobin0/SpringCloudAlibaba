@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="alibaba_seata_product_service_9012" />
+        <module name="alibaba_seata_order_service_9011" />
+        <module name="alibaba_payment_9002" />
+        <module name="alibaba_payment_9001" />
+        <module name="alibaba_config_client_9003" />
+        <module name="alibaba_sentinel_service_9005" />
+        <module name="alibaba_payment_service_9001" />
+        <module name="alibaba_config_client_9004" />
+        <module name="alibaba_order_service_80" />
+        <module name="alibaba_common_api" />
+        <module name="alibaba_seata_account_service_9013" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="alibaba_nacos_config_client_9004" target="1.8" />
+      <module name="alibaba_payment_service_9001" target="1.8" />
+      <module name="demo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="demo" options="" />
+    </option>
+  </component>
+</project>

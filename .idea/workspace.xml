@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="36a8f396-ec0c-4531-9586-bdf12c86188f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1Yt3STJbhH8cERGGSCNGsHbayZB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="LombokPluginEnabledInProject" value="true" />
+    <property name="LombokPluginIS_ANNOTATION_PROCESSING_CHECK_Enabled" value="true" />
+    <property name="LombokPluginIS_BUILDER_Enabled" value="true" />
+    <property name="LombokPluginIS_CONSTRUCTOR_Enabled" value="true" />
+    <property name="LombokPluginIS_DELEGATE_Enabled" value="true" />
+    <property name="LombokPluginIS_LOG_Enabled" value="true" />
+    <property name="LombokPluginIS_LOMBOK_VERSION_CHECK_Enabled" value="true" />
+    <property name="LombokPluginIS_MISSING_LOMBOK_CHECK_Enabled" value="true" />
+    <property name="LombokPluginIS_VAL_Enabled" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/alibaba_seata_account_service_9013/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.33448276" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.cloud.service" />
+      <recent name="com.cloud.controller" />
+      <recent name="com.alibaba.demo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IDEAProject\cloud_alibaba\alibaba_seata_account_service_9013\src\main\resources" />
+      <recent name="E:\IDEAProject\cloud_alibaba\alibaba_seata_account_service_9013" />
+      <recent name="E:\IDEAProject\cloud_alibaba\alibaba_seata_product_service_9012\src\main\resources" />
+      <recent name="E:\IDEAProject\cloud_alibaba\alibaba_seata_order_service_9011\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SnowFlakeUtil">
+    <configuration name="SnowFlakeUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cloud.util.SnowFlakeUtil" />
+      <module name="alibaba_order_service_80" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cloud.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SnowFlakeTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="alibaba_order_service_80" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test" />
+      <option name="MAIN_CLASS_NAME" value="com.test.SnowFlakeTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigClientApplication9004" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="alibaba_config_client_9004" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cloud.ConfigClientApplication9004" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApplication80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="alibaba_order_service_80" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cloud.OrderApplication80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentApplication9001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="alibaba_payment_9001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cloud.PaymentApplication9001" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentApplication9001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="alibaba_payment_9001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cloud.PaymentApplication9001" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentApplication9001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="alibaba_payment_service_9001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alibaba.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.PaymentApplication9001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentApplication9001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="alibaba_payment_service_9001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alibaba.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.PaymentApplication9001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeataAccountApplication9013" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="alibaba_seata_account_service_9013" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cloud.SeataAccountApplication9013" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeataOrderApplication9011" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="alibaba_seata_order_service_9011" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cloud.SeataOrderApplication9011" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeataProductApplication9012" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="alibaba_seata_product_service_9012" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cloud.SeataProductApplication9012" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.SnowFlakeUtil" />
+      <item itemvalue="JUnit.SnowFlakeTest.test1" />
+      <item itemvalue="Spring Boot.PaymentApplication9001" />
+      <item itemvalue="Spring Boot.ConfigClientApplication9004" />
+      <item itemvalue="Spring Boot.SeataOrderApplication9011" />
+      <item itemvalue="Spring Boot.OrderApplication80" />
+      <item itemvalue="Spring Boot.SeataProductApplication9012" />
+      <item itemvalue="Spring Boot.SeataAccountApplication9013" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.OrderApplication80" />
+        <item itemvalue="Application.SnowFlakeUtil" />
+        <item itemvalue="JUnit.SnowFlakeTest.test1" />
+        <item itemvalue="Spring Boot.SeataAccountApplication9013" />
+        <item itemvalue="Spring Boot.SeataProductApplication9012" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.23433875" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36a8f396-ec0c-4531-9586-bdf12c86188f" name="Default Changelist" comment="" />
+      <created>1583748063619</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583748063619</updated>
+      <workItem from="1583748070110" duration="789000" />
+      <workItem from="1583752816238" duration="2442000" />
+      <workItem from="1583755325477" duration="5065000" />
+      <workItem from="1583816611370" duration="8930000" />
+      <workItem from="1583887228513" duration="21100000" />
+      <workItem from="1583930922153" duration="2414000" />
+      <workItem from="1583933463218" duration="2465000" />
+      <workItem from="1583992080812" duration="16059000" />
+      <workItem from="1584014650492" duration="3597000" />
+      <workItem from="1584060217656" duration="6420000" />
+      <workItem from="1584079155108" duration="6737000" />
+      <workItem from="1584173857008" duration="409000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.conf" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="26" key="#Project_Structure" timestamp="1584087147017">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="26" key="#Project_Structure/0.0.1366.738@0.0.1366.738" timestamp="1584087147017" />
+    <state x="137" y="23" width="1160" height="692" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583917359954">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="137" y="23" width="1160" height="692" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1583917359954" />
+    <state x="488" y="77" key="#com.intellij.ide.util.MemberChooser" timestamp="1584007541397">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="488" y="77" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1584007541397" />
+    <state x="390" y="226" width="586" height="295" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1583931028584">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="390" y="226" width="586" height="295" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.738@0.0.1366.738" timestamp="1583931028584" />
+    <state width="538" height="466" key="DebuggerActiveHint" timestamp="1584061201653">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="538" height="466" key="DebuggerActiveHint/0.0.1366.738@0.0.1366.738" timestamp="1584061201653" />
+    <state x="484" y="58" key="FileChooserDialogImpl" timestamp="1583819203544">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="484" y="58" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1583819203544" />
+    <state width="989" height="304" key="GridCell.Tab.0.bottom" timestamp="1584090776904">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="989" height="304" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1584090776904" />
+    <state width="989" height="304" key="GridCell.Tab.0.center" timestamp="1584090776904">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="989" height="304" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1584090776904" />
+    <state width="989" height="304" key="GridCell.Tab.0.left" timestamp="1584090776904">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="989" height="304" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1584090776904" />
+    <state width="989" height="304" key="GridCell.Tab.0.right" timestamp="1584090776904">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="989" height="304" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1584090776904" />
+    <state width="989" height="304" key="GridCell.Tab.1.bottom" timestamp="1584090776904">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="989" height="304" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1584090776904" />
+    <state width="989" height="304" key="GridCell.Tab.1.center" timestamp="1584090776904">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="989" height="304" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1584090776904" />
+    <state width="989" height="304" key="GridCell.Tab.1.left" timestamp="1584090776904">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="989" height="304" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1584090776904" />
+    <state width="989" height="304" key="GridCell.Tab.1.right" timestamp="1584090776904">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="989" height="304" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1584090776904" />
+    <state width="989" height="304" key="GridCell.Tab.2.bottom" timestamp="1584090776904">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="989" height="304" key="GridCell.Tab.2.bottom/0.0.1366.738@0.0.1366.738" timestamp="1584090776904" />
+    <state width="989" height="304" key="GridCell.Tab.2.center" timestamp="1584090776904">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="989" height="304" key="GridCell.Tab.2.center/0.0.1366.738@0.0.1366.738" timestamp="1584090776904" />
+    <state width="989" height="304" key="GridCell.Tab.2.left" timestamp="1584090776904">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="989" height="304" key="GridCell.Tab.2.left/0.0.1366.738@0.0.1366.738" timestamp="1584090776904" />
+    <state width="989" height="304" key="GridCell.Tab.2.right" timestamp="1584090776904">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="989" height="304" key="GridCell.Tab.2.right/0.0.1366.738@0.0.1366.738" timestamp="1584090776904" />
+    <state x="344" y="65" key="NewModule_or_Project.wizard" timestamp="1583819205461">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="344" y="65" key="NewModule_or_Project.wizard/0.0.1366.738@0.0.1366.738" timestamp="1583819205461" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1583819209462">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1583819209462" />
+    <state x="359" y="100" width="647" height="538" key="find.popup" timestamp="1584011722600">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="359" y="100" width="647" height="538" key="find.popup/0.0.1366.738@0.0.1366.738" timestamp="1584011722600" />
+    <state x="106" y="21" key="new project wizard" timestamp="1584006778973">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="106" y="21" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1584006778973" />
+    <state x="339" y="159" key="run.anything.popup" timestamp="1584003760815">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="339" y="159" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1584003760815" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1584011881299">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1584011881299" />
+  </component>
+</project>

@@ -1,5 +1,3 @@
-# readme
-
 > **`alibaba_common_api`		公共jar包和公共类**
 >
 > **`alibaba_payment_9001`	Nacos注册中心服务端**
